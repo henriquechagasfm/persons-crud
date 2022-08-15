@@ -1,5 +1,6 @@
 Web form performing CRUD operations into a MySQL database. Built using Spring Framework libraries, MyBatis JPA, Lombok and MySQL.
 
+![alt text](https://imgur.com/XAajseZ)
 
 <p align="center">
   <img src="https://imgur.com/XAajseZ" width="350" title="list, select">
