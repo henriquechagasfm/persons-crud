@@ -1,6 +1,6 @@
 Web form performing CRUD operations into a MySQL database. Built using Spring Framework libraries, MyBatis JPA, Lombok and MySQL.
 
-![alt text](https://imgur.com/XAajseZ)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/oRm9A3r" data-context="false" ><a href="//imgur.com/a/oRm9A3r"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <p align="center">
   <img src="https://imgur.com/XAajseZ" width="350" title="list, select">
